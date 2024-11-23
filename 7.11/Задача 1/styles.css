@@ -1,0 +1,18 @@
+h1, button {
+    padding-left: 5%;
+}
+button {
+    border-radius: 10pt;
+    margin-left: 10pt;
+    color: white;
+    height: 30pt;
+    text-align: center;
+}
+.addBookButton {
+    background-color: green;
+    width: 125pt;
+}
+.searchButton {
+    background-color: blue;
+    width: 70pt;
+}
