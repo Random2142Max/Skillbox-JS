@@ -1,0 +1,18 @@
+h1, button {
+    padding-left: 5%;
+}
+button {
+    border-radius: 10pt;
+    padding-left: 20px;
+    color: white;
+    height: 30pt;
+    text-align: center;
+}
+.addHeightButton {
+    background-color: green;
+    width: 100pt;
+}
+.sortButton {
+    background-color: blue;
+    width: 90pt;
+}
