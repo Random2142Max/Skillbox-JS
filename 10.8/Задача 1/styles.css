@@ -1,0 +1,13 @@
+body {
+    background-color: dimgray;
+}
+button {
+    background-color: dimgray;
+    border-color: dimgray;
+}
+h1 {
+    text-align: center;
+}
+.fullImg {
+    padding-top: 20pt;
+}
